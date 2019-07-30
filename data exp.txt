@@ -1,0 +1,5 @@
+good links:
+https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+##############################
+
